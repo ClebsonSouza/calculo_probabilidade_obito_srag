@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+scikit-learn
+xgboost
+lightgbm
+pyexcel
+pyexcel-xls
+unidecode
