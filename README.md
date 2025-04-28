@@ -31,7 +31,7 @@ A aplicação implementa diferentes modelos supervisionados, todos treinados, va
   - Random Forest
   - XGBoost
   - LightGBM
-- Interface amigável via **Streamlit**, acessível diretamente no navegador.
+- Interface via **Streamlit**, acessível diretamente no navegador.
 - **Login e autenticação** para segurança e controle de acesso.
 
 Acesse a aplicação hospedada no [Streamlit Community Cloud](#) *(link será inserido)*!
