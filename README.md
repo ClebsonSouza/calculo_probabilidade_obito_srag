@@ -11,7 +11,7 @@ Este aplicativo foi desenvolvido a partir do estudo:
 > "**Risco e Previsão de Desfechos por SRAG na Paraíba com Modelos de Aprendizado de Máquina**"  
 > *Clébson Freire de Souza, Renato Máximo Sátiro (USP/ESALQ)*
 
-## 🦰 Modelos de Machine Learning Utilizados
+## 🧠 Modelos de Machine Learning Utilizados
 
 A aplicação implementa diferentes modelos supervisionados, todos treinados, validados e comparados criteriosamente:
 
@@ -31,10 +31,10 @@ A aplicação implementa diferentes modelos supervisionados, todos treinados, va
   - Random Forest
   - XGBoost
   - LightGBM
-- Interface via **Streamlit**, acessível diretamente no navegador.
+- Interface amigável via **Streamlit**, acessível diretamente no navegador.
 - **Login e autenticação** para segurança e controle de acesso.
 
-Acesse a aplicação hospedada no [Streamlit Community Cloud](#) *(link será inserido)*!
+Acesse a aplicação hospedada no [Streamlit Community Cloud](https://calculoprobabilidadeobitosrag-d6cdur2jlxjzwgvfzhaksc.streamlit.app/)!
 
 ## 🏥 Aplicações Práticas
 
