@@ -13,13 +13,13 @@ Este aplicativo foi desenvolvido a partir do estudo:
 
 ## 🧠 Modelos de Machine Learning Utilizados
 
-A aplicação implementa diferentes modelos supervisionados, todos treinados, validados e comparados criteriosamente:
+A aplicação implementa diferentes modelos supervisionados, todos treinados, validados e comparados:
 
 - **Regressão Logística** (referência)
 - **Decision Tree Classifier**
 - **Random Forest Classifier**
 - **XGBoost Classifier**
-- **LightGBM Classifier** *(modelo com melhor desempenho)*
+- **LightGBM Classifier** *(modelo com melhor desempenho, embora não distancie dos demais modelos)*
 - **Rede Neural Artificial (exploratória)**
 
 ## 🚀 Funcionalidades do Aplicativo
@@ -31,10 +31,10 @@ A aplicação implementa diferentes modelos supervisionados, todos treinados, va
   - Random Forest
   - XGBoost
   - LightGBM
-- Interface amigável via **Streamlit**, acessível diretamente no navegador.
-- **Login e autenticação** para segurança e controle de acesso.
+- Interface via **Streamlit**, acessível diretamente no navegador.
+- **Login e autenticação** para segurança e controle de acesso (usuário: teste, senha: 4321)
 
-Acesse a aplicação hospedada no [Streamlit Community Cloud](https://calculoprobabilidadeobitosrag-d6cdur2jlxjzwgvfzhaksc.streamlit.app/)!
+## Acesse a aplicação hospedada no [Streamlit Community Cloud](https://calculoprobabilidadeobitosrag-d6cdur2jlxjzwgvfzhaksc.streamlit.app/)!
 
 ## 🏥 Aplicações Práticas
 
