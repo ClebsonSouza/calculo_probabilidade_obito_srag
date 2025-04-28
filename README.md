@@ -96,4 +96,4 @@ Consulte o artigo completo [clicando aqui](#).
 
 ---
 
-> Desenvolvido com foco em ciência, precisão e impacto social.
+> Desenvolvido com foco em ciência e impacto social.
