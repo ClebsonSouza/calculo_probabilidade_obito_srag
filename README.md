@@ -36,6 +36,9 @@ A aplicação implementa diferentes modelos supervisionados, todos treinados, va
 
 ## Acesse a aplicação hospedada no [Streamlit Community Cloud](https://calculoprobabilidadeobitosrag-d6cdur2jlxjzwgvfzhaksc.streamlit.app/)!
 
+Usuário: teste
+Senha:4321
+
 ## 🏥 Aplicações Práticas
 
 - **Apoio à decisão médica** em unidades de saúde.
