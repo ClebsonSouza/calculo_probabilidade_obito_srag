@@ -38,7 +38,7 @@ A aplicação implementa diferentes modelos supervisionados, todos treinados, va
 
 Usuário: teste
 
-Senha:4321
+Senha: 4321
 
 ## 🏥 Aplicações Práticas
 
