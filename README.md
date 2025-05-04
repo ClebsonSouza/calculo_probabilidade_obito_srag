@@ -91,7 +91,7 @@ streamlit run pred_modelos.py
 
 **Clébson Freire de Souza**  
 Especialista em Data Science e Analytics - MBA USP/ESALQ  
-[GitHub](https://github.com/ClebsonSouza) | [LinkedIn](#)
+[GitHub](https://github.com/ClebsonSouza) | [LinkedIn](https://www.linkedin.com/in/clébson-freire-b29669160)
 
 ## 📚 Referência Científica
 
